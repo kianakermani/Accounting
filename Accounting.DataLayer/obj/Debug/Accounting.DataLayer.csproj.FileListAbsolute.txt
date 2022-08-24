@@ -1,0 +1,14 @@
+D:\Personal Accounting\Accounting\Accounting.DataLayer\bin\Debug\Accounting.DataLayer.dll.config
+D:\Personal Accounting\Accounting\Accounting.DataLayer\bin\Debug\Accounting.DataLayer.dll
+D:\Personal Accounting\Accounting\Accounting.DataLayer\bin\Debug\Accounting.DataLayer.pdb
+D:\Personal Accounting\Accounting\Accounting.DataLayer\bin\Debug\EntityFramework.dll
+D:\Personal Accounting\Accounting\Accounting.DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Personal Accounting\Accounting\Accounting.DataLayer\bin\Debug\EntityFramework.xml
+D:\Personal Accounting\Accounting\Accounting.DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Personal Accounting\Accounting\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.csproj.CoreCompileInputs.cache
+D:\Personal Accounting\Accounting\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.csproj.CopyComplete
+D:\Personal Accounting\Accounting\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.dll
+D:\Personal Accounting\Accounting\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.pdb
+D:\Personal Accounting\Accounting\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.csproj.AssemblyReference.cache
+D:\Personal Accounting\Accounting\Accounting.DataLayer\bin\Debug\Accounting.ViewModels.dll
+D:\Personal Accounting\Accounting\Accounting.DataLayer\bin\Debug\Accounting.ViewModels.pdb
